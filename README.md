@@ -20,4 +20,4 @@
 
 | Squence | Problem       | Level  | Language  | Video Tutorial|
 |:-------:|:--------------|:------:|:---------:|:-------------:|
-|0|[2 Sum II - Input array is sorted.java](https://github.com/awangdev/LintCode/blob/master/Java/2%20Sum%20II%20-%20Input%20array%20is%20sorted.java)|Medium|Java||
+|0|[2 Sum II - Input array is sorted.java](https://github.com/993950972/LeetCode/blob/master/C%2B%2B/two%20sum.txt)|Medium|Java||
