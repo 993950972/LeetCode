@@ -9,15 +9,13 @@
 
 **ReviewPage.md**: 所有题目的总结和归纳（不断完善中）
 
-**KnowledgeHash2.md**: 对所做过的知识点的一些笔记
-
-**Future Milestone**: 我准备将一些有意思的题目，做成视频的形式给大家参考
+**KnowledgeHash.md**: 对所做过的知识点的一些笔记
 
 
 希望大家学习顺利, 对未来充满希望。
 有问题可以给我写邮件(993950972@qq.com), 或者在GitHub上发issue给我.
 
 
-| Squence | Problem       | Level  | Language  | Video Tutorial|
-|:-------:|:--------------|:------:|:---------:|:-------------:|
+| Squence | Problem       | Level  | Language  |
+|:-------:|:--------------|:------:|:---------:|
 |0|[2 Sum II - Input array is sorted.java](https://github.com/993950972/LeetCode/blob/master/C%2B%2B/two%20sum.txt)|Medium|Java||
