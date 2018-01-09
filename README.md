@@ -1,5 +1,5 @@
 # LeetCode
-# Java Algorithm Problems
+# C++ Algorithm Problems
 
 ### 程序员的一天
 
@@ -18,6 +18,6 @@
 有问题可以给我写邮件(993950972@qq.com)， 或者在GitHub上发issue给我。
 
 
-| Squence | Problem       | Level  | Language  | Video Tutorial|
-|:-------:|:--------------|:------:|:---------:|:-------------:|
+| Squence | Problem       | Level  | Language  |
+|:-------:|:--------------|:------:|:---------:|
 |0|[2 Sum II - Input array is sorted.cpp](https://github.com/993950972/LeetCode/blob/master/C%2B%2B/two%20sum.txt)|Medium|C++||
