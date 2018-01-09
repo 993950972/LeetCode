@@ -20,4 +20,4 @@
 
 | Squence | Problem       | Level  | Language  |
 |:-------:|:--------------|:------:|:---------:|
-|0|[2 Sum II - Input array is sorted.cpp](https://github.com/993950972/LeetCode/blob/master/C%2B%2B/two%20sum.txt)|Medium|C++||
+|350|[350 Intersection of Two Arrays II](https://github.com/993950972/LeetCode/commit/97ec9ce20843e8514aadb8ab5c498e844047e5e8)|Medium|C++||
