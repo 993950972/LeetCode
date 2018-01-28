@@ -16,6 +16,14 @@ Example:
 /*
 算法思想：刚开始使用模拟法，与1异或，会超时。后来通过找规律，AC通过，但是不知如何解释。
 discuss：每个灯泡只有toggle奇数后才处于亮状态。
+
+
+Explanation:
+A light will be toggled only during the round of its factors, e.g. number 6 light will be toggled at 1,2,3,6 and light 12 will be toggled at 1,2,3,4,6,12. The final state of a light is on and off only depends on if the number of its factor is odd or even. If odd, the light is on and if even the light is off. The number of one number’s factor is odd if and only if it is a perfect square!
+So we will only need to loop to find all the perfect squares that are smaller than n!
+
+
+
 A bulb ends up on iff it is switched an odd number of times.
 
 Call them bulb 1 to bulb n. Bulb i is switched in round d if and only if d divides i. So bulb i ends up on if and only if it has an odd number of divisors.
