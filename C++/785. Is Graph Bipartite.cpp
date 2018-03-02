@@ -62,6 +62,7 @@ public:
 };
 
 //广度搜索，首先将当前搜索的点着色，然后放入队列中，继续搜索其相邻的节点，如果不能按照约束进行着色，则返回false，如果所有的节点均能按照约束进行着色，则返回true。
+//广度搜索不会超时
 class Solution {
 public:
     bool isBipartite(vector<vector<int>>& graph) {
